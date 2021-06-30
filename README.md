@@ -5,7 +5,7 @@
 - Clone this repository and install dependencies
 
     ```command
-    git clone https://github.com/Anuknow/py-anukD.git
+    git clone https://github.com/jswebguru/django_crud.git
     pip install -r requirements.txt
     cd django_models/frontend
     npm install      
